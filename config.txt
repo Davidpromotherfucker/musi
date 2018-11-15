@@ -1,4 +1,4 @@
-﻿token=NTEyNzIyMDE4NjA5OTIyMDY1.Ds9lMQ.X0zYw7RHSubkImhiW4rbQraSXzU
+﻿token=NTEyNzM4OTcwNjI3NjA0NDky.Ds909w.SbZwPpisIdYYyvIzDm9NJh58NYo
 owner=505811134528356352	
 prefix=J
 game= Jhelp
